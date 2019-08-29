@@ -5,9 +5,12 @@
 
 运行环境：
 node.js
-python3.7
+
+        python3.7
 
 需要的库：
 requests
-re
-PyExecJS
+
+          re
+          
+          PyExecJS
